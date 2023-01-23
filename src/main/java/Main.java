@@ -41,6 +41,7 @@ public class Main {
 
 
     System.out.println(context);
+    System.out.println(context);
 
     HttpServletRequest req = new HttpServletRequest() {
       @Override
