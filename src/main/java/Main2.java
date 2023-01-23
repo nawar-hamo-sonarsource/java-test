@@ -25,6 +25,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpSession;
 
 public class Main2 {
+  public final static String password = "asdfasdf";
 
   public static void main(String [] args) throws IOException, InterruptedException, GeneralSecurityException, ClassNotFoundException {
 

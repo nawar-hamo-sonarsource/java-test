@@ -1,7 +1,7 @@
-organization=nawarorga
-projectKey=ttt3
-serverUrl=https://sonarcloud.io
-serverVersion=8.0.0.34856
-dashboardUrl=https://sonarcloud.io/dashboard?id=ttt3
-ceTaskId=AYSfidBij6cCnB66Trvr
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AYSfidBij6cCnB66Trvr
+organization=csab
+projectKey=csabatest
+serverUrl=https://squad-1-core.sc-dev.io
+serverVersion=8.0.0.36552
+dashboardUrl=https://squad-1-core.sc-dev.io/dashboard?id=csabatest
+ceTaskId=AYXd5j2fJQDf1uwfjNcZ
+ceTaskUrl=https://squad-1-core.sc-dev.io/api/ce/task?id=AYXd5j2fJQDf1uwfjNcZ

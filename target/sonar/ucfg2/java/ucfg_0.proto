@@ -1,19 +1,21 @@
 
-!MyClass#clone()Ljava/lang/Object;D
-:/Users/nawar.hamo/Project/test1/src/main/java/MyClass.java ("1*§
-1D
-:/Users/nawar.hamo/Project/test1/src/main/java/MyClass.java (rp
-D
-:/Users/nawar.hamo/Project/test1/src/main/java/MyClass.java (
-%0java.lang.Object"java.lang.Object…
-‚
-D
-:/Users/nawar.hamo/Project/test1/src/main/java/MyClass.java (
-%1"java.lang.Object#<init>()V*
+!MyClass#clone()Ljava/lang/Object;L
+B/Users/csaba.feher/Repository/java-test/src/main/java/MyClass.java ("1*ã
+1L
+B/Users/csaba.feher/Repository/java-test/src/main/java/MyClass.java (zx
+L
+B/Users/csaba.feher/Repository/java-test/src/main/java/MyClass.java (
+%0java.lang.Object"java.lang.Object©
+¦
+L
+B/Users/csaba.feher/Repository/java-test/src/main/java/MyClass.java (
+%1"java.lang.Object#<init>()V*4
+
+__unknown_file (
 
-%0java.lang.Object"`
-D
-:/Users/nawar.hamo/Project/test1/src/main/java/MyClass.java (
+%0java.lang.Object"h
+L
+B/Users/csaba.feher/Repository/java-test/src/main/java/MyClass.java (
 
 %0java.lang.ObjectB	
-MyClass
+MyClassH
