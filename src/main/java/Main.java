@@ -35,12 +35,10 @@ public class Main {
 
   public static void main(String [] args) throws IOException, InterruptedException, GeneralSecurityException, ClassNotFoundException {
 
-
-
-    SSLContext context = sslContext("ASAD", "DEZZS");
-
-
-    System.out.println(context);
+    System.out.println("test");
+    System.out.println("test");
+    System.out.println("test");
+    System.out.println("test");
 
     HttpServletRequest req = new HttpServletRequest() {
       @Override
@@ -340,13 +338,6 @@ public class Main {
     s.add(3);
 
     s.removeAll(i);
-
-    System.out.println("s "+s);
-
-
-    System.out.println(String.format("koko %s %s",new Date(), System.currentTimeMillis()));
-    System.out.println(String.format("dd %s",System.currentTimeMillis()));
-    System.out.println("done");
   }
 
   public static void test(HttpServletRequest req) throws IOException, InterruptedException {

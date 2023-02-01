@@ -30,15 +30,57 @@ public class Main3 {
 
 
 
+
     SSLContext context = sslContext("ASAD", "DEZZS");
+   context = sslContext("ASAD", "DEZZS");
 
 
     System.out.println(context);
-    System.out.println("ddd");
-    System.out.println("ddd");
-    System.out.println("ddd");
-    System.out.println("ddd");
-    System.out.println("ddd");
+    System.out.println(context);
+    System.out.println(context);
+    System.out.println(context);
+    System.out.println(context);
+    System.out.println(context);
+    System.out.println(context);
+    System.out.println(context);
+    System.out.println(context);
+    System.out.println(context);
+    System.out.println(context);
+    System.out.println(context);
+    System.out.println(context);
+    System.out.println(context);
+    System.out.println(context);
+    System.out.println(context);
+    System.out.println(context);
+    System.out.println(context);
+    System.out.println(context);
+    System.out.println(context);
+    System.out.println(context);
+    System.out.println(context);
+    System.out.println(context);
+    System.out.println(context);
+    System.out.println(context);
+    System.out.println(context);
+    System.out.println(context);
+    System.out.println(context);
+    System.out.println(context);
+    System.out.println(context);
+    System.out.println(context);
+    System.out.println(context);
+    System.out.println(context);
+    System.out.println(context);
+    System.out.println(context);
+    System.out.println(context);
+    System.out.println(context);
+    System.out.println(context);
+    System.out.println(context);
+    System.out.println(context);
+    System.out.println(context);
+    System.out.println(context);
+    System.out.println(context);
+
+
+
 
     HttpServletRequest req = new HttpServletRequest() {
       @Override
@@ -318,13 +360,6 @@ public class Main3 {
     String password = "123";
 
 
-    java.util.regex.Pattern.compile("(h|h|ih(((i|a|c|c|a|i|i|j|b|a|i|b|a|a|j))+h)ahbfhba|c|i)*").matcher(
-      "hchcchicihcchciiicichhcichcihcchiihichiciiiihhcchi"+
-        "cchhcihchcihiihciichhccciccichcichiihcchcihhicchcciicchcccihiiihhihihihi"+
-        "chicihhcciccchihhhcchichchciihiicihciihcccciciccicciiiiiiiiicihhhiiiihchccch"+
-        "chhhhiiihchihcccchhhiiiiiiiicicichicihcciciihichhhhchihciiihhiccccccciciihh"+
-        "ichiccchhicchicihihccichicciihcichccihhiciccccccccichhhhihihhcchchihih"+
-        "iihhihihihicichihiiiihhhhihhhchhichiicihhiiiiihchccccchichci").matches();
 
 
     test t = new test();

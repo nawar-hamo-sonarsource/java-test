@@ -30,16 +30,6 @@ public class Main2 {
 
 
 
-    SSLContext context = sslContext("ASAD", "DEZZS");
-
-
-    System.out.println(context);
-    System.out.println(context);
-    System.out.println(context);
-    System.out.println(context);
-    System.out.println(context);
-    System.out.println(context);
-    System.out.println(context);
 
     HttpServletRequest req = new HttpServletRequest() {
       @Override
@@ -342,12 +332,6 @@ public class Main2 {
 
     s.removeAll(i);
 
-    System.out.println("s "+s);
-
-
-    System.out.println(String.format("koko %s %s",new Date(), System.currentTimeMillis()));
-    System.out.println(String.format("dd %s",System.currentTimeMillis()));
-    System.out.println("done");
   }
 
   public static void test(HttpServletRequest req) throws IOException, InterruptedException {
@@ -384,6 +368,53 @@ public class Main2 {
       keyManagerFactory.getKeyManagers(),
       trustManagerFactory.getTrustManagers(),
       new SecureRandom());
+
+    System.out.println("ss");
+    System.out.println("ss");
+    System.out.println("ss");
+    System.out.println("ss");
+    System.out.println("ss");
+    System.out.println("ss");
+    System.out.println("ss");
+    System.out.println("ss");
+    System.out.println("ss");
+    System.out.println("ss");
+    System.out.println("ss");
+    System.out.println("ss");
+    System.out.println("ss");
+    System.out.println("ss");
+    System.out.println("ss");
+    System.out.println("ss");
+    System.out.println("ss");
+    System.out.println("ss");
+    System.out.println("ss");
+    System.out.println("ss");
+    System.out.println("ss");
+    System.out.println("ss");
+    System.out.println("ss");
+    System.out.println("ss");
+    System.out.println("ss");
+    System.out.println("ss");
+    System.out.println("ss");
+    System.out.println("ss");
+    System.out.println("ss");
+    System.out.println("ss");
+    System.out.println("ss");
+    System.out.println("ss");
+    System.out.println("ss");
+    System.out.println("ss");
+    System.out.println("ss");
+    System.out.println("ss");
+    System.out.println("ss");
+    System.out.println("ss");
+    System.out.println("ss");
+    System.out.println("ss");
+    System.out.println("ss");
+    System.out.println("ss");
+    System.out.println("ss");
+    System.out.println("ss");
+    System.out.println("ss");
+
 
     return sslContext;
   }
