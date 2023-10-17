@@ -11,8 +11,8 @@
     <properties>
          <maven.compiler.source>11</maven.compiler.source>
          <maven.compiler.target>11</maven.compiler.target>
-      <sonar.organization>nawar-hamo-sonarsource</sonar.organization>
-  <sonar.host.url>https://nh.sc.eu.eu.ngrok.io</sonar.host.url>
+       <sonar.organization>nawar-hamo-sonarsource</sonar.organization>
+  <sonar.host.url>https://squad-4-core.sc-dev.io</sonar.host.url>
     </properties>
   <dependencies>
   <!-- https://mvnrepository.com/artifact/com.google.code.gson/gson -->
